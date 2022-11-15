@@ -62,5 +62,5 @@
 
 * Для удобства создана коллекция API запросов в Postman с заготовленными телами зпросов в формате JSON. 
 По ним и проводилось API тестирование REST контроллера. 
-Ссылка: https://www.getpostman.com/collections/d5719531759763e2a21b
+Ссылка на импорт коллекции: https://www.getpostman.com/collections/d5719531759763e2a21b
 * Документация API будет находиться после заруска приложения по URL: http://localhost:8080/swagger-ui/
