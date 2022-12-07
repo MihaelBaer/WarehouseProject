@@ -1,4 +1,4 @@
-package warehouse.AccountingDocs.DTO;
+package org.warehouse.AccountingDocs.DTO;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.*;

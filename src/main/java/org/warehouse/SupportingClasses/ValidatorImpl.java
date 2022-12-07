@@ -1,4 +1,4 @@
-package warehouse.SupportingClasses;
+package org.warehouse.SupportingClasses;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;

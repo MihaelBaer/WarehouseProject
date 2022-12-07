@@ -1,4 +1,4 @@
-package warehouse.Items.Repository;
+package org.warehouse.Items.Repository;
 
 import lombok.NonNull;
 import org.springframework.data.jpa.repository.JpaRepository;

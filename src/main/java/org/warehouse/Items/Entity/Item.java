@@ -1,4 +1,4 @@
-package warehouse.Items.Entity;
+package org.warehouse.Items.Entity;
 
 import lombok.*;
 import org.warehouse.AccountingDocs.Entity.Movement;

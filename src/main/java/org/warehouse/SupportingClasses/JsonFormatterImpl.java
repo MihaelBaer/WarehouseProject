@@ -1,4 +1,4 @@
-package warehouse.SupportingClasses;
+package org.warehouse.SupportingClasses;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

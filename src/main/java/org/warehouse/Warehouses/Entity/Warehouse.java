@@ -1,4 +1,4 @@
-package warehouse.Warehouses.Entity;
+package org.warehouse.Warehouses.Entity;
 
 import lombok.*;
 import org.hibernate.Hibernate;

@@ -1,4 +1,4 @@
-package warehouse.SupportingClasses;
+package org.warehouse.SupportingClasses;
 
 import org.springframework.stereotype.Service;
 import org.warehouse.Items.DTO.ItemDTO;

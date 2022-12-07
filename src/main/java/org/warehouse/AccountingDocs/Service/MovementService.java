@@ -1,4 +1,4 @@
-package warehouse.AccountingDocs.Service;
+package org.warehouse.AccountingDocs.Service;
 
 import org.springframework.stereotype.Service;
 import org.warehouse.AccountingDocs.DTO.MovementDTO;

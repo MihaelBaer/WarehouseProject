@@ -1,4 +1,4 @@
-package warehouse.Items.DTO;
+package org.warehouse.Items.DTO;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.swagger.annotations.ApiModelProperty;

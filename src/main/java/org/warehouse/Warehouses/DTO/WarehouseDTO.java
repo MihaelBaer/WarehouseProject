@@ -1,4 +1,4 @@
-package warehouse.Warehouses.DTO;
+package org.warehouse.Warehouses.DTO;
 
 import lombok.*;
 import org.warehouse.Items.Entity.Item;

@@ -1,4 +1,4 @@
-package warehouse.AccountingDocs.Entity;
+package org.warehouse.AccountingDocs.Entity;
 
 import lombok.*;
 import org.hibernate.Hibernate;

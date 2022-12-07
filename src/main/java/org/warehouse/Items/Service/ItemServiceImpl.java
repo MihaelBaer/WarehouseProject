@@ -1,4 +1,4 @@
-package warehouse.Items.Service;
+package org.warehouse.Items.Service;
 import org.springframework.stereotype.Service;
 import org.warehouse.Items.DTO.ItemDTO;
 import org.warehouse.Items.Entity.Item;

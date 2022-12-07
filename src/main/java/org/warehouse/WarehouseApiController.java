@@ -1,4 +1,4 @@
-package warehouse;
+package org.warehouse;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

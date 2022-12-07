@@ -1,4 +1,4 @@
-package warehouse.Warehouses.Repository;
+package org.warehouse.Warehouses.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Service;
